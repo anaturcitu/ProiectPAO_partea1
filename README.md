@@ -1,5 +1,4 @@
-# ProiectPAO_partea1
-Aplicatie Biblioteca
+# ProiectPAO_partea1 - Aplicatie Biblioteca
 
 CLASELE:
 	package biblioteca:
