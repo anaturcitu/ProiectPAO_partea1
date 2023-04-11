@@ -1,6 +1,7 @@
 # ProiectPAO_partea1 - Aplicatie Biblioteca
 
 CLASELE:
+
 	package biblioteca:
 		- Biblioteca : implementeaza BibliotecaService
 		- Carte : abstracta
@@ -28,6 +29,7 @@ CLASELE:
 	- Main
 
 METODELE:
+
 	in Main:
 		- main : citesc optiunile si apelez functiile respective
 
@@ -36,7 +38,7 @@ METODELE:
 		- afisareCarti()
 		- citireUtilizatori()
 		- afisareUtilizatori()
-- imprumutareCarte() : cand este imprumutata o carte, starea ei devine indisponibila si este adaugata in istoricul cartilor imprumutate ale utilizatorului citit
+		- imprumutareCarte() : cand este imprumutata o carte, starea ei devine indisponibila si este adaugata in istoricul cartilor imprumutate ale utilizatorului citit
 		- citireAdaugareCarteNoua() : este citita de la tastatura, apoi adaugata o carte noua
 
 	in UtilizatorBiblioteca:
