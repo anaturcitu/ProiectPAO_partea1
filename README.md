@@ -1,4 +1,4 @@
-# ProiectPAO_partea1 - Aplicatie Biblioteca
+Aplicatie Biblioteca
 
 CLASELE:
 
